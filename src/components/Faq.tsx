@@ -1,6 +1,6 @@
 export default function FAQ() {
     return (
-        <div className="space-y-4 max-w-xl">
+        <div className="space-y-4 w-[500px] max-w-xl">
         <details className="group rounded-lg bg-neutral p-6 [&_summary::-webkit-details-marker]:hidden" open>
             <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-gray-100">
             <h2 className="font-medium">Lorem ipsum dolor sit amet consectetur adipisicing?</h2>

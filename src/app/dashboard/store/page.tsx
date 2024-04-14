@@ -95,7 +95,7 @@ function Profile () {
     return (
         <>
             <Header session = { session } />
-            <div className="grid h-screen min-h-screen w-full overflow-hidden md:grid-cols-[auto_1fr]">
+            <div className="grid h-full md:h-screen md:min-h-screen overflow-hidden md:grid-cols-[auto_1fr]">
                     <SideNav />
                     <div className="flex flex-col">
                     <div className="flex justify-center items-center mt-10">

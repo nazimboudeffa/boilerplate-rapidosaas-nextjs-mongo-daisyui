@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function SideNav() {
     return (
-        <div className="hidden border-r md:block bg-neutral">
+        <div className="border-r bg-neutral">
                     <div className="flex flex-col gap-2">
                     <div className="flex h-[60px] items-center px-6">
                         <h1 className="text-xl">Dashboard</h1>
