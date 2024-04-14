@@ -29,7 +29,7 @@ function Pricing() {
             id: "1",
             name: "Premium",
             upcomingPrice: "$99",
-            price: "$0",
+            price: "$10",
             href: "/api/auth/signin",
             subtitle: "donate what you want",
             highlight: true,
