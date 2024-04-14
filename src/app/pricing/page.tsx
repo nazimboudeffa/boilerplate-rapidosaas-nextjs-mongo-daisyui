@@ -57,7 +57,7 @@ function Pricing() {
             <div className="mt-10 flex flex-row flex-wrap gap-5 px-20 justify-center">
                 {pricingPlans.map((p) => (
                     <div
-                        className={`shadow dark:border dark:border-slate-800 rounded-3xl flex flex-col items-center p-5 min-w-[350px] ${p.highlight && "shadow-lg"}`}
+                        className={`shadow dark:border dark:border-slate-800 bg-neutral rounded-3xl flex flex-col items-center p-5 min-w-[350px] ${p.highlight && "shadow-lg"}`}
                         key={p.id}
                     >
                         <div className="text-sm flex flex-row gap-2 items-center">
@@ -84,7 +84,7 @@ function Pricing() {
                         <div className="mt-5 w-full">
                             <Link
                                 href={p.href}
-                                className="btn w-full"
+                                className="btn rounded-xl w-full"
                             >
                                 {p.callToAction}
                             </Link>
