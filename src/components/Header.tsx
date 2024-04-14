@@ -35,6 +35,13 @@ function Header ({ session } : Readonly<{ session: Session | null }>) {
                     </li>
                     <li>
                     <Link className="underline"
+                        href="/explore"
+                    >
+                        Explore
+                    </Link>
+                    </li>
+                    <li>
+                    <Link className="underline"
                         href="/pricing"
                     >
                         Pricing

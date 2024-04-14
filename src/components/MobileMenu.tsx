@@ -5,12 +5,17 @@ export default function MobileMenu ({ open } : { open: boolean }) {
         <div className={`${open? "block" : "hidden"} flex flex-col`}>
             <Link href="/about">
                 <span className="block h-16 leading-[4rem] pl-3">
-                Explore
+                About
+                </span>
+            </Link>
+            <Link href="/explore">
+                <span className="block h-16 leading-[4rem] pl-3">
+                explore
                 </span>
             </Link>
             <Link href="/pricing">
                 <span className="block h-16 leading-[4rem] pl-3">
-                Explore
+                Pricing
                 </span>
             </Link>
         </div>
