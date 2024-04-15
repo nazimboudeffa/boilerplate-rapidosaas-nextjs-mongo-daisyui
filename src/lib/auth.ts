@@ -12,4 +12,8 @@ export const authOptions: NextAuthOptions = {
     ],
     adapter: MongoDBAdapter(MongoClientPromise),
     secret: process.env.NEXTAUTH_SECRET,
+    pages: {
+      signIn: '/auth/sign-in',
+      verifyRequest: '/auth/verify-request',
+    },
   };
