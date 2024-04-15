@@ -3,7 +3,7 @@ export default function FAQ() {
         <div className="space-y-4 w-[350px] md:w-[50%]">
         <details className="group rounded-lg bg-neutral p-6 [&_summary::-webkit-details-marker]:hidden" open>
             <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-gray-100">
-            <h2 className="font-medium">Lorem ipsum dolor sit amet consectetur adipisicing?</h2>
+            <h2 className="font-medium">No refund policy</h2>
 
             <span className="relative size-5 shrink-0">
                 <svg
@@ -39,15 +39,13 @@ export default function FAQ() {
             </summary>
 
             <p className="mt-4 leading-relaxed text-gray-700">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis molestias culpa in,
-            recusandae laboriosam neque aliquid libero nesciunt voluptate dicta quo officiis explicabo
-            consequuntur distinctio corporis earum similique!
+            We do not offer refunds. If you have any questions, please contact us for further information.
             </p>
         </details>
 
         <details className="group rounded-lg bg-neutral p-6 [&_summary::-webkit-details-marker]:hidden">
             <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-gray-100">
-            <h2 className="font-medium">Lorem ipsum dolor sit amet consectetur adipisicing?</h2>
+            <h2 className="font-medium">Donations are welcome</h2>
 
             <span className="relative size-5 shrink-0">
                 <svg
@@ -83,9 +81,7 @@ export default function FAQ() {
             </summary>
 
             <p className="mt-4 leading-relaxed text-gray-700">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis molestias culpa in,
-            recusandae laboriosam neque aliquid libero nesciunt voluptate dicta quo officiis explicabo
-            consequuntur distinctio corporis earum similique!
+            We appreciate your support and donations. It will help us to keep the development up.
             </p>
         </details>
         </div>
