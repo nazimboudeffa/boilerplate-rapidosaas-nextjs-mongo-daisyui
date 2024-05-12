@@ -23,7 +23,7 @@ The doc is available on https://nazimboudeffa.gumroad.com
 
 This software is free 
 
-But you can make a donation by clicking on https://fr.tipeee.com/nazimboudeffa
+But you can make a donation by following https://fr.tipeee.com/nazimboudeffa
 
 Please note that your donation is not an engagement of any of the parts, you are free, we are free, and we love free softwares
 
