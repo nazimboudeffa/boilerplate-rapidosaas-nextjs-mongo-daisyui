@@ -11,12 +11,6 @@
 </p>
 <br/>
 
-<div align="center">
-  <a href="https://paypal.me/nazimboudeffa">
-    <img src="./public/paypal_logo.svg">
-  </a>
-</div>
-
 ## Introduction
 
 Influence is an open-source SaaS boilerplate where you can make business online.
@@ -29,7 +23,7 @@ The doc is available on https://nazimboudeffa.gumroad.com
 
 This software is free 
 
-But you can make a donation by clicking on the PayPal logo or follow https://paypal.me/nazimboudeffa
+But you can make a donation by clicking on https://fr.tipeee.com/nazimboudeffa
 
 Please note that your donation is not an engagement of any of the parts, you are free, we are free, and we love free softwares
 
