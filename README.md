@@ -1,5 +1,5 @@
 <a href="https://allbiiiz.com">
-  <h1 align="center">Influence</h1>
+  <h1 align="center">Rapido SaaS</h1>
 </a>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Influence is an open-source SaaS boilerplate where you can make business online.
+Rapido SaaS is an open-source SaaS boilerplate where you can start shipping startups.
 
 ## Documentation
 
